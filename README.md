@@ -10,9 +10,8 @@
 <div style="text-align: left">"A mind needs books like a sword needs a whetstone" - Tyrion Lannister. </div>
 
 ## Technologies I Love
-* Computer Vision
-* Deep Learning
-* Aerospace
+* AI
+* Space
 * Robotics
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=visiondrag&layout=compact">
@@ -25,43 +24,39 @@
 <img src = './images/sql.svg' width='30'/> 
  
  ## Technologies I Use
-   <img src = './images/conda.png' height='40'/>
-  <img src = './images/android.svg' height='40'/>
-  <img src = './images/flutter-logo.svg' width='30'/> 
- <img src = './images/django.svg' width='30'/> <img src = './images/git.svg' width='30'/> 
+<img src = './images/conda.png' height='40'/> <img src = './images/android.svg' height='40'/> <img src = './images/flutter-logo.svg' width='30'/> <img src = './images/django.svg' width='30'/> <img src = './images/git.svg' width='30'/> 
 
  
  ## Who am I?
  ```python
  @vision_drag_definition
- class how_to_define_me:
- 	user = 'Viet Nguyen Quoc'
-		current_work = 'Computer Vision Engineer'
+ class Me:
+ 	user = 'Quoc Viet Nguyen'
+		current_work = 'AI Researcher + Engineer'
 		hobbies = [
 				'Reading',
 				'Watching',
 				'Swimming',
 				'Researching',
-				'Learning piano'
 			]
 	
 	def get_living_city():
-		return 'Ho Chi Minh City'
+		return 'Seoul, South Korea'
 
 	def hometown():
-		return 'Nha Trang, Khanh Hoa'
+		return 'Nha Trang, Khanh Hoa, Viet Nam'
 	
 	def ambitions():
-		MSc_degree()
 		PhD_degree()
 		build_green_future()
+		to_a_higher_civilization()
 		# There are more but stay tuned  =)))
 	
  ```
  
 ## Current Works
- * Computer Vision Engineer at CyberLogitecVN !!
- * Research on Real-World Super-Resolution !!
+ * AI Researcher at Sejong Uni, AI Engineer at Qlay Technologies !!
+ * Research on AI Agent, Robotics !!
 
  
 ## Other Stuff
