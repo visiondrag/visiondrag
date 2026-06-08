@@ -14,8 +14,6 @@
 * Space
 * Robotics
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=visiondrag&layout=compact">
-
 ## Programming Languages
 <img src = './images/c-original.svg' width='40'/> <img src = './images/cpp.svg' width='40'/>
 <img src = './images/python2.png' height='40'/> <img src = './images/matlab.svg' width='45'/>
