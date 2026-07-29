@@ -17,9 +17,6 @@
 ## Programming Languages
 <img src = './images/c-original.svg' width='40'/> <img src = './images/cpp.svg' width='40'/>
 <img src = './images/python2.png' height='40'/> <img src = './images/matlab.svg' width='45'/>
-<!-- <img src='./images/java.svg' width='30'/>  -->
-<!-- <img src = './images/kotlin.svg' width='30'/> <img src = './images/dart.svg' width='33'/>  -->
-<!-- <img src = './images/sql.svg' width='30'/>  -->
  
  ## Technologies I Use
 <img src = './images/conda.png' height='40'/> <img src = './images/android.svg' height='40'/> <img src = './images/django.svg' width='40'/> <img src = './images/git.svg' width='40'/> <img src='./images/ros2.png' width='100'/><img src='./images/gazebo.png' width='40'/><img src='./images/nvidia-isaac-sim.png' width='40'/>
@@ -53,8 +50,8 @@
  ```
  
 ## Current Works
- * AI Researcher at Sejong Uni, AI Engineer at Qlay Technologies !!
- * Research on AI Agent, Robotics and Space Exploration !!
+ * AI Researcher at Sejong Uni
+ * Research on AI Agent, Robotics and Space Exploration
 
  
 ## Other Stuff
